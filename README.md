@@ -64,6 +64,5 @@ A fully responsive full-stack grocery webshop built from scratch using HTML, CSS
 
 
 ## 📫 Contact
-
-📧 Email: luka8petrovic8@google.com
-📱 Phone: +381 61 113 2494
+- 📧 Email: luka8petrovic8@google.com
+- 📱 Phone: +381 61 113 2494
